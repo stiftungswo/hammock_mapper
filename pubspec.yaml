@@ -1,9 +1,9 @@
 name: hammock_mapper
-version: 0.0.1
+version: 0.0.2
 author: Victor Savkin <vic.savkin@gmail.com>
 homepage: https://github.com/vsavkin/hammock_mapper
 dependencies:
-  hammock: '>= 0.2.3 <0.3.0'
+  hammock: any
 dev_dependencies:
   guinness: '>= 0.1.12'
 environment:
