@@ -3,9 +3,10 @@ version: 0.0.2
 author: Victor Savkin <vic.savkin@gmail.com>
 homepage: https://github.com/vsavkin/hammock_mapper
 dependencies:
-  hammock: 
-      git: https://github.com/toasterson/hammock.git
-      ref: master
+  hammock:
+    git:
+        url: https://github.com/toasterson/hammock.git
+        ref: master
 dev_dependencies:
   guinness: '>= 0.1.12'
 environment:
