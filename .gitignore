@@ -3,3 +3,5 @@ node_modules
 pubspec.lock
 *.log
 .idea
+.pub
+.packages

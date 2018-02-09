@@ -1,11 +1,13 @@
 name: hammock_mapper
 version: 0.0.2
-author: Victor Savkin <vic.savkin@gmail.com>
-homepage: https://github.com/vsavkin/hammock_mapper
+authors:
+- Victor Savkin <vic.savkin@gmail.com>
+- Till Wegmüller <toasterson@gmail.com>
+homepage: https://github.com/stiftungswo/hammock_mapper
 dependencies:
   hammock:
     git:
-        url: https://github.com/toasterson/hammock.git
+        url: https://github.com/stiftungswo/hammock.git
         ref: master
 dev_dependencies:
   guinness: '>= 0.1.12'
