@@ -1,3 +1,5 @@
+:exclamation: Attention: This project is not maintained anymore. We don't recommend to use the package anymore, as the package itself is only partially tested with Dart 2.
+
 # Hammock.Mapper
 
 Hammock.Mapper uses conventions and a bit of meta information to generate all the serialization and deserialization functions required by Hammock. Read more about Hammock [here](https://github.com/vsavkin/hammock).
